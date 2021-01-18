@@ -1,10 +1,10 @@
-#Welcome to my Discord BOT!
+# Welcome to my Discord BOT!
 
 Are you tired of high latency **public music bots**? This one was created because of those.  
 
 Now you can host your own and share music you like with your friends on the server!
 
-##Configuration
+## Configuration
 
 - Install Node.js on your device:
 https://nodejs.org/en/download/
